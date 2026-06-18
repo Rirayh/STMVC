@@ -1,7 +1,7 @@
 # STMVC: A Sufficient Information-Theoretic Approach for Consistency Acquisition and Redundancy Elimination
 
 This repository contains the official implementation for the paper:
-**"Enhancing Multi-View Clustering: A Sufficient Information-Theoretic Approach for Consistency Acquisition and Redundancy Elimination"** (TPAMI 2026 Accepted).
+**"Enhancing Multi-View Clustering: A Sufficient Information-Theoretic Approach for Consistency Acquisition and Redundancy Elimination"** (IEEE TPAMI).
 
 
 ## Quick Start
@@ -19,4 +19,17 @@ Please refer to [GUIDE.md](GUIDE.md) for detailed instructions.
 
 ## Citation
 
-If you find this code useful, please cite our papers.
+If you find this code useful, please cite our paper.
+
+```bibtex
+@article{ren2026enhancing,
+  title={Enhancing Multi-View Clustering: A Sufficient Information-Theoretic Approach for Consistency Acquisition and Redundancy Elimination},
+  author={Ren, Yazhou and Wen, Zichen and Ke, Junlong and Cui, Chenhang and Huang, Yonghao and Chen, Xinyue and Yu, Philip S. and He, Lifang},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2026},
+  volume={48},
+  number={7},
+  pages={7420-7435},
+  doi={10.1109/TPAMI.2026.3665701}
+}
+```
